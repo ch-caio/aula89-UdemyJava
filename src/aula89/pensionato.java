@@ -23,7 +23,7 @@ public class pensionato {
 		
 		for (int i=0; i<n; i++) {
 			sc.nextLine();
-			System.out.print("nome aluno: ");
+			System.out.print("nome: ");
 			String name = sc.nextLine();
 			
 			System.out.print("email aluno: ");
